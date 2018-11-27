@@ -1,0 +1,24 @@
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\bin\Debug\prog2.0.exe.config
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\bin\Debug\prog2.0.exe
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\bin\Debug\prog2.0.pdb
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\obj\Debug\prog2.0.csprojResolveAssemblyReference.cache
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\obj\Debug\prog2.0.exe
+c:\users\tabajdi.jozsef.imre\documents\visual studio 2013\Projects\prog2.0\prog2.0\obj\Debug\prog2.0.pdb
+N:\2018-2019\prog2.0\prog2.0\bin\Debug\prog2.0.exe.config
+N:\2018-2019\prog2.0\prog2.0\obj\Debug\prog2.0.exe
+N:\2018-2019\prog2.0\prog2.0\obj\Debug\prog2.0.pdb
+N:\2018-2019\prog2.0\prog2.0\bin\Debug\prog2.0.exe
+N:\2018-2019\prog2.0\prog2.0\bin\Debug\prog2.0.pdb
+N:\2018-2019\prog2.0\prog2.0\obj\Debug\prog2.0.csprojResolveAssemblyReference.cache
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.exe.config
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.exe
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.pdb
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.exe
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.pdb
+N:\2018-2019\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.csprojResolveAssemblyReference.cache
+D:\progijaim\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.exe.config
+D:\progijaim\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.exe
+D:\progijaim\Prgy progik\prog2.0\prog2.0\bin\Debug\prog2.0.pdb
+D:\progijaim\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.csprojResolveAssemblyReference.cache
+D:\progijaim\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.exe
+D:\progijaim\Prgy progik\prog2.0\prog2.0\obj\Debug\prog2.0.pdb
